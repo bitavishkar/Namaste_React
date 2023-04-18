@@ -1,0 +1,25 @@
+{
+  "name": "namaste-reactt",
+  "version": "1.0.0",
+  "description": "My shot at react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitavishkar/Namaste_React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Avishkar Ghadge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitavishkar/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/bitavishkar/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
