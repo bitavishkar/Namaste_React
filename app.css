@@ -1,0 +1,64 @@
+/* .top-left img,
+.top-right img {
+  width: 1000px;
+  height: 50px;
+  object-fit: cover;
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .top-left img,
+  .top-right img {
+    height: 50px; /* adjust height as needed */
+    /* width: auto; /* set width to auto to maintain aspect ratio */
+  
+
+
+    .logo img {
+      height: 4rem; /* increase the height */
+      width: auto; /* set width to auto to maintain aspect ratio */
+    }
+    
+    .user-icon img {
+      height: 3rem; /* increase the height */
+      width: auto; /* set width to auto to maintain aspect ratio */
+    }
+    
+   .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #f7f7f7;
+  }
+  
+  .logo img {
+    height: 3rem;
+  }
+  
+  .search-bar input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 0.5rem;
+  }
+  
+  .search-bar button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .user-icon img {
+    height: 2.5rem;
+    border-radius: 50%;
+  }
+  
